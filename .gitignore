@@ -1,0 +1,13 @@
+# Project exclude paths
+.idea/
+*.iml
+/akka/target/
+/core-java/target/
+/database/target/
+/design-patterns/target/
+/ds-arrays-strings/target/
+/spring-boot/target/
+/spring-core/target/
+/system-design/target/
+/unit-testing/target/
+/unix/target/
